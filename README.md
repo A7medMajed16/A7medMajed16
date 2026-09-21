@@ -1,211 +1,53 @@
-<h1 align="center">Hi, I'm Ahmed Majed 👋</h1>
+## 📊 GitHub Activity
 
-<h3 align="center">
-Mobile Software Engineer • Flutter & Dart • 3+ Years of Experience
-</h3>
+<div align="center">
 
-<p align="center">
-Building production-ready mobile applications with a focus on clean architecture,
-scalability, performance, and great user experiences.
-</p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=A7medMajed16&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&rank_icon=github"
+    height="165"
+    alt="Ahmed's GitHub stats"
+  />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-majed-5500a1247/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Majed-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ahmed.maged.1682@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://pub.dev/packages/logo_motion">
-    <img src="https://img.shields.io/badge/pub.dev-logo__motion-0175C2?style=flat&logo=dart&logoColor=white" />
-  </a>
-</p>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=A7medMajed16&layout=compact&langs_count=6&theme=dracula&hide_border=true"
+    height="165"
+    alt="Ahmed's most used languages"
+  />
 
----
+</div>
 
-## 👨‍💻 About Me
+<br/>
 
-I'm a **Mobile Software Engineer specializing in Flutter**, with **3+ years of experience**
-building and shipping production applications across multiple industries.
+<div align="center">
 
-- 📱 Published **8+ production applications** on Google Play and the Apple App Store
-- 🚕 Built a complete **ride-hailing ecosystem** with Customer, Driver, and Agent applications
-- 🏥 Developed healthcare platforms connecting patients, doctors, clinics, and hospitals
-- 🛒 Built e-commerce, transportation, healthcare, community, and food-tech applications
-- 🗺️ Experienced with **real-time location tracking, Google Maps, WebSockets, and push notifications**
-- 💳 Integrated production payment solutions including **Stripe and Paymob**
-- 🔐 Built **offline face recognition and biometric attendance systems**
-- 📦 Creator of the Flutter package **logo_motion** on pub.dev
-- 🖥️ Built applications for **Android, iOS, Web, Windows, macOS, and Android TV**
-- 🤖 Using AI-assisted development workflows to improve development speed, debugging, and code quality
+  <img
+    src="https://streak-stats.demolab.com?user=A7medMajed16&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=8"
+    height="170"
+    alt="GitHub streak"
+  />
 
-Currently focused on strengthening my knowledge in **mobile software engineering,
-automated testing, CI/CD, native platform integration, and application performance**.
+</div>
 
----
+<br/>
 
-## 🛠️ Tech Stack
+<div align="center">
 
-### Mobile Development
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A7medMajed16&theme=dracula"
+    width="90%"
+    alt="GitHub contribution summary"
+  />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,swift" />
-</p>
+</div>
 
-**Flutter • Dart • Android • iOS • Responsive & Adaptive UI**
+<br/>
 
-### Architecture & State Management
+<div align="center">
 
-`Clean Architecture` • `MVVM` • `Repository Pattern` • `BLoC / Cubit` • `GetIt / Injectable`
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=A7medMajed16&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
+    width="90%"
+    alt="GitHub trophies"
+  />
 
-### Backend Integration
-
-`REST APIs` • `Dio` • `WebSockets` • `JWT Authentication` • `JSON Serialization`
-
-### Firebase
-
-`Authentication` • `Firestore` • `FCM` • `Storage` • `Analytics` • `Crashlytics`
-
-### Mobile Features & Integrations
-
-`Google Maps` • `Geolocation` • `Deep Linking` • `Push Notifications`
-
-`NFC` • `Bluetooth` • `Network Printers` • `QR / Barcode Scanning`
-
-`Stripe` • `Paymob`
-
-### Local Storage
-
-`SQLite` • `Hive` • `SharedPreferences` • `Secure Storage` • `Offline Caching`
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,firebase,vscode" />
-</p>
-
-`Git` • `GitHub` • `Postman` • `Firebase` • `CI/CD`
-
----
-
-## 🚀 Selected Projects
-
-### 🚕 Taxi Beirut
-
-Complete ride-hailing ecosystem consisting of:
-
-**Customer App • Driver App • Agent App**
-
-Built with Flutter using BLoC architecture and featuring:
-
-- Real-time ride workflows
-- Google Maps integration
-- Location tracking
-- Push notifications
-- REST API integration
-- Authentication
-- Multi-app architecture
-
-Published production applications for Android and iOS.
-
----
-
-### 🏥 WeCan — Cancer Care Platform
-
-Healthcare platform connecting **cancer patients, doctors, and hospitals**.
-
-Key features include:
-
-- Appointment management
-- Medication management
-- Medical reports
-- Doctor & patient workflows
-- Notifications
-- REST API integration
-
-Published on Google Play and the Apple App Store.
-
----
-
-### 🛒 Al Balsan
-
-Production e-commerce application featuring:
-
-- Product browsing
-- Orders
-- Payment integration
-- Push notifications
-- REST APIs
-- Production deployment
-
-Available on Android and iOS.
-
----
-
-### 🧠 Offline Face Recognition Attendance
-
-Offline attendance solution using **on-device face recognition and biometric verification**.
-
-- Face registration & recognition
-- Offline processing
-- Local database
-- Anti-spoofing workflow
-- Employee attendance tracking
-
-Designed to operate without relying on cloud-based face recognition services.
-
----
-
-## 📦 Open Source
-
-### logo_motion
-
-A Flutter package for creating animated logo effects.
-
-<p>
-  <a href="https://pub.dev/packages/logo_motion">
-    <img src="https://img.shields.io/pub/v/logo_motion?logo=dart&label=pub.dev" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=A7medMajed16&show_icons=true&hide_border=true&count_private=true" />
-
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=A7medMajed16&layout=compact&hide_border=true" />
-</p>
-
----
-
-## 🎯 Currently Improving
-
-- 🧪 Unit, Widget & Integration Testing
-- ⚙️ CI/CD for Flutter applications
-- 📱 Native Android & iOS integration
-- ⚡ Flutter performance optimization
-- 🏗️ Mobile system design & scalable architecture
-- 🇩🇪 German language
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in working on challenging mobile products and collaborating with
-engineering teams building scalable applications.
-
-📧 **Email:** ahmed.maged.1682@gmail.com
-
-💼 **LinkedIn:** [Ahmed Majed](https://www.linkedin.com/in/ahmed-majed-5500a1247/)
-
-📦 **pub.dev:** [logo_motion](https://pub.dev/packages/logo_motion)
-
----
-
-<p align="center">
-  <i>Building reliable mobile experiences, one feature at a time.</i>
-</p>
+</div>
