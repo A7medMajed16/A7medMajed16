@@ -47,10 +47,22 @@ Currently focused on strengthening my knowledge in **mobile software engineering
 ### 📱 Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" alt="Mobile Development Skills"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio,xcode" alt="Mobile Development Skills"/>
 </p>
 
-**Flutter • Dart • Android • iOS • Responsive UI • Adaptive UI**
+**Flutter • Dart • Kotlin • Swift • Android • iOS • Xcode • Android Studio • Responsive UI • Adaptive UI • Flutter Web • Desktop • Android TV**
+
+### 🤖 AI-Assisted Development
+
+<p>
+  <img src="https://img.shields.io/badge/Cursor-AI-111111?style=for-the-badge" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/Claude-Code-D97757?style=for-the-badge" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/OpenAI-Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex"/>
+  <img src="https://img.shields.io/badge/GitHub-Copilot-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot"/>
+  <img src="https://img.shields.io/badge/Gemini-AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
+</p>
+
+`Cursor` • `Claude Code` • `OpenAI Codex` • `GitHub Copilot` • `Gemini` • `AI-assisted debugging` • `Refactoring` • `Code Review` • `Documentation`
 
 ### 🏗️ Architecture & State Management
 
