@@ -1,53 +1,239 @@
+<h1 align="center">Hi, I'm Ahmed Majed 👋</h1>
+
+<h3 align="center">
+Mobile Software Engineer • Flutter & Dart • 3+ Years of Experience
+</h3>
+
+<p align="center">
+Building production-ready mobile applications with a focus on clean architecture,
+scalability, performance, and great user experiences.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-majed-5500a1247/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Majed-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ahmed.maged.1682@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://pub.dev/packages/logo_motion">
+    <img src="https://img.shields.io/badge/pub.dev-logo__motion-0175C2?style=flat&logo=dart&logoColor=white" alt="pub.dev"/>
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Mobile Software Engineer specializing in Flutter**, with **3+ years of experience** building and shipping production applications across multiple industries.
+
+- 📱 Published **8+ production applications** on Google Play and the Apple App Store
+- 🚕 Built a complete **ride-hailing ecosystem** with Customer, Driver, and Agent applications
+- 🏥 Developed healthcare platforms connecting patients, doctors, clinics, and hospitals
+- 🛒 Built applications across e-commerce, transportation, healthcare, community, and food-tech
+- 🗺️ Experienced with **real-time location tracking, Google Maps, WebSockets, and push notifications**
+- 💳 Integrated production payment solutions including **Stripe and Paymob**
+- 🔐 Built **offline face recognition and biometric attendance systems**
+- 📦 Creator of the Flutter package **logo_motion** on pub.dev
+- 🖥️ Built cross-platform solutions for **Android, iOS, Web, Windows, macOS, and Android TV**
+- 🤖 Experienced with AI-assisted development workflows for debugging, refactoring, documentation, and code review
+
+Currently focused on strengthening my knowledge in **mobile software engineering, automated testing, CI/CD, native platform integration, and application performance**.
+
+---
+
+## 🛠️ Tech Stack
+
+### 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" alt="Mobile Development Skills"/>
+</p>
+
+**Flutter • Dart • Android • iOS • Responsive UI • Adaptive UI**
+
+### 🏗️ Architecture & State Management
+
+`Clean Architecture` • `MVVM` • `Repository Pattern` • `BLoC / Cubit` • `GetIt` • `Injectable`
+
+### 🌐 Backend & API Integration
+
+`REST APIs` • `Dio` • `WebSockets` • `JWT Authentication` • `JSON Serialization`
+
+### 🔥 Firebase
+
+`Firebase Authentication` • `Cloud Firestore` • `FCM` • `Firebase Storage` • `Analytics` • `Crashlytics`
+
+### 📍 Mobile Features & Integrations
+
+`Google Maps` • `Geolocation` • `Deep Linking` • `Push Notifications`
+
+`NFC` • `Bluetooth Devices` • `Bluetooth Printers` • `Network Printers`
+
+`QR / Barcode Scanning`
+
+### 💳 Payments
+
+`Stripe` • `Paymob`
+
+### 💾 Local Storage
+
+`SQLite` • `Hive` • `SharedPreferences` • `Flutter Secure Storage` • `Offline Caching`
+
+### 🔧 Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,firebase,vscode" alt="Development Tools"/>
+</p>
+
+`Git` • `GitHub` • `Postman` • `Firebase` • `CI/CD`
+
+---
+
+## 🚀 Selected Projects
+
+### 🚕 Taxi Beirut — Transportation Platform
+
+Complete ride-hailing ecosystem consisting of:
+
+**Customer App • Driver App • Agent App**
+
+Built and shipped using Flutter with:
+
+- Real-time ride workflows
+- Google Maps integration
+- Location tracking
+- Push notifications
+- REST API integration
+- Authentication
+- BLoC architecture
+- Multi-app ecosystem
+
+Published production applications for Android and iOS.
+
+---
+
+### 🏥 WeCan — Cancer Care Platform
+
+Healthcare platform connecting **cancer patients, doctors, and hospitals**.
+
+Key features include:
+
+- Appointment management
+- Medication management
+- Medical reports
+- Doctor and patient workflows
+- Push & local notifications
+- REST API integration
+
+Published on Google Play and the Apple App Store.
+
+---
+
+### 🛒 Al Balsan — E-Commerce Platform
+
+Production e-commerce application featuring:
+
+- Product browsing
+- Cart and orders
+- Payment integration
+- Push notifications
+- REST API integration
+- Production deployment
+
+Published on Android and iOS.
+
+---
+
+### 🧠 Offline Face Recognition Attendance
+
+Offline attendance solution using **on-device face recognition and biometric verification**.
+
+Key features:
+
+- Face registration and recognition
+- Offline processing
+- Local database
+- Anti-spoofing workflow
+- Employee attendance tracking
+- On-device verification
+
+Designed to operate without relying on cloud-based face recognition services.
+
+---
+
+## 📦 Open Source
+
+### logo_motion
+
+A reusable Flutter package for creating animated logo stroke and fill effects.
+
+<p>
+  <a href="https://pub.dev/packages/logo_motion">
+    <img src="https://img.shields.io/pub/v/logo_motion?logo=dart&label=pub.dev" alt="logo_motion pub.dev version"/>
+  </a>
+</p>
+
+**Package:** [pub.dev/packages/logo_motion](https://pub.dev/packages/logo_motion)
+
+---
+
 ## 📊 GitHub Activity
 
 <div align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=A7medMajed16&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&rank_icon=github"
-    height="165"
-    alt="Ahmed's GitHub stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=A7medMajed16&layout=compact&langs_count=6&theme=dracula&hide_border=true"
-    height="165"
-    alt="Ahmed's most used languages"
+    src="https://streak-stats.demolab.com?user=A7medMajed16&theme=dracula&hide_border=true&border_radius=10"
+    height="180"
+    alt="Ahmed Majed GitHub Streak"
   />
 
 </div>
-
-<br/>
 
 <div align="center">
-
-  <img
-    src="https://streak-stats.demolab.com?user=A7medMajed16&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=8"
-    height="170"
-    alt="GitHub streak"
-  />
-
+  <img src="https://img.shields.io/github/followers/A7medMajed16?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/A7medMajed16?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars" />
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=A7medMajed16&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
+---
 
-<br/>
+## 🎯 Currently Improving
 
-<div align="center">
+- 🧪 Unit, Widget & Integration Testing
+- ⚙️ CI/CD for Flutter applications
+- 📱 Native Android & iOS integration
+- ⚡ Flutter performance optimization
+- 🏗️ Mobile system design & scalable architecture
+- 🇩🇪 German language
 
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A7medMajed16&theme=dracula"
-    width="90%"
-    alt="GitHub contribution summary"
-  />
+---
 
-</div>
+## 🤝 Let's Connect
 
-<br/>
+I'm interested in working with engineering teams building reliable and scalable mobile products.
 
-<div align="center">
+<p>
+  <a href="https://www.linkedin.com/in/ahmed-majed-5500a1247/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Majed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=A7medMajed16&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
-    width="90%"
-    alt="GitHub trophies"
-  />
+  <a href="mailto:ahmed.maged.1682@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 
-</div>
+  <a href="https://pub.dev/packages/logo_motion">
+    <img src="https://img.shields.io/badge/pub.dev-logo__motion-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="pub.dev"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Mobile Software Engineer • Flutter & Dart</b>
+</p>
+
+<p align="center">
+  <i>Building reliable mobile experiences, one feature at a time.</i>
+</p>ئ-ئ-
