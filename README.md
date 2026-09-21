@@ -1,130 +1,211 @@
-<h2 align="left">Hi 👋! My name is Ahmed Majed and I'm a Flutter Dev from Egypt</h2>
+<h1 align="center">Hi, I'm Ahmed Majed 👋</h1>
 
-###
+<h3 align="center">
+Mobile Software Engineer • Flutter & Dart • 3+ Years of Experience
+</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A7medMajed16&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=A7medMajed16&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=A7medMajed16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+Building production-ready mobile applications with a focus on clean architecture,
+scalability, performance, and great user experiences.
+</p>
 
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e47rqh35wdcfr4t5ctg5v4qgqe7i45u983kvjst29co&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="apple logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="30" alt="behance logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30" alt="cmake logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="30" alt="facebook logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="30" alt="firefox logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="30" alt="opera logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="30" alt="xd logo"/>
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.youtube.com/channel/UC1iyWs_hmCfW8q_VyFNOHtw" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-majed-5500a1247/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Majed-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/a7medmajed16" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="mailto:ahmed.maged.1682@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://discordapp.com/users/ahmedmajed16" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://pub.dev/packages/logo_motion">
+    <img src="https://img.shields.io/badge/pub.dev-logo__motion-0175C2?style=flat&logo=dart&logoColor=white" />
   </a>
-  <a href="ahmed.maged.1682@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/ahmed-majed-5500a1247/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.behance.net/ahmedmaged1682" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/ahmed_maged_1682" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
-  <a href="https://wa.me/qr/6LV2U4TWQYAMB1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/23582068/ahmed-majed" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://t.me/a7medmajed16" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-  <a href="ahmed.maged.1682@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="https://www.facebook.com/a7medmajed16" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-</div>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/A7medMajed16/count.svg?"  />
-</div>
+## 👨‍💻 About Me
 
-###
+I'm a **Mobile Software Engineer specializing in Flutter**, with **3+ years of experience**
+building and shipping production applications across multiple industries.
 
-<div align="center">
-  <img height="200" src="https://res.cloudinary.com/practicaldev/image/fetch/s--z5X0MXQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif"  />
-</div>
+- 📱 Published **8+ production applications** on Google Play and the Apple App Store
+- 🚕 Built a complete **ride-hailing ecosystem** with Customer, Driver, and Agent applications
+- 🏥 Developed healthcare platforms connecting patients, doctors, clinics, and hospitals
+- 🛒 Built e-commerce, transportation, healthcare, community, and food-tech applications
+- 🗺️ Experienced with **real-time location tracking, Google Maps, WebSockets, and push notifications**
+- 💳 Integrated production payment solutions including **Stripe and Paymob**
+- 🔐 Built **offline face recognition and biometric attendance systems**
+- 📦 Creator of the Flutter package **logo_motion** on pub.dev
+- 🖥️ Built applications for **Android, iOS, Web, Windows, macOS, and Android TV**
+- 🤖 Using AI-assisted development workflows to improve development speed, debugging, and code quality
 
-###
+Currently focused on strengthening my knowledge in **mobile software engineering,
+automated testing, CI/CD, native platform integration, and application performance**.
+
+---
+
+## 🛠️ Tech Stack
+
+### Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,swift" />
+</p>
+
+**Flutter • Dart • Android • iOS • Responsive & Adaptive UI**
+
+### Architecture & State Management
+
+`Clean Architecture` • `MVVM` • `Repository Pattern` • `BLoC / Cubit` • `GetIt / Injectable`
+
+### Backend Integration
+
+`REST APIs` • `Dio` • `WebSockets` • `JWT Authentication` • `JSON Serialization`
+
+### Firebase
+
+`Authentication` • `Firestore` • `FCM` • `Storage` • `Analytics` • `Crashlytics`
+
+### Mobile Features & Integrations
+
+`Google Maps` • `Geolocation` • `Deep Linking` • `Push Notifications`
+
+`NFC` • `Bluetooth` • `Network Printers` • `QR / Barcode Scanning`
+
+`Stripe` • `Paymob`
+
+### Local Storage
+
+`SQLite` • `Hive` • `SharedPreferences` • `Secure Storage` • `Offline Caching`
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,firebase,vscode" />
+</p>
+
+`Git` • `GitHub` • `Postman` • `Firebase` • `CI/CD`
+
+---
+
+## 🚀 Selected Projects
+
+### 🚕 Taxi Beirut
+
+Complete ride-hailing ecosystem consisting of:
+
+**Customer App • Driver App • Agent App**
+
+Built with Flutter using BLoC architecture and featuring:
+
+- Real-time ride workflows
+- Google Maps integration
+- Location tracking
+- Push notifications
+- REST API integration
+- Authentication
+- Multi-app architecture
+
+Published production applications for Android and iOS.
+
+---
+
+### 🏥 WeCan — Cancer Care Platform
+
+Healthcare platform connecting **cancer patients, doctors, and hospitals**.
+
+Key features include:
+
+- Appointment management
+- Medication management
+- Medical reports
+- Doctor & patient workflows
+- Notifications
+- REST API integration
+
+Published on Google Play and the Apple App Store.
+
+---
+
+### 🛒 Al Balsan
+
+Production e-commerce application featuring:
+
+- Product browsing
+- Orders
+- Payment integration
+- Push notifications
+- REST APIs
+- Production deployment
+
+Available on Android and iOS.
+
+---
+
+### 🧠 Offline Face Recognition Attendance
+
+Offline attendance solution using **on-device face recognition and biometric verification**.
+
+- Face registration & recognition
+- Offline processing
+- Local database
+- Anti-spoofing workflow
+- Employee attendance tracking
+
+Designed to operate without relying on cloud-based face recognition services.
+
+---
+
+## 📦 Open Source
+
+### logo_motion
+
+A Flutter package for creating animated logo effects.
+
+<p>
+  <a href="https://pub.dev/packages/logo_motion">
+    <img src="https://img.shields.io/pub/v/logo_motion?logo=dart&label=pub.dev" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=A7medMajed16&show_icons=true&hide_border=true&count_private=true" />
+
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=A7medMajed16&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Currently Improving
+
+- 🧪 Unit, Widget & Integration Testing
+- ⚙️ CI/CD for Flutter applications
+- 📱 Native Android & iOS integration
+- ⚡ Flutter performance optimization
+- 🏗️ Mobile system design & scalable architecture
+- 🇩🇪 German language
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in working on challenging mobile products and collaborating with
+engineering teams building scalable applications.
+
+📧 **Email:** ahmed.maged.1682@gmail.com
+
+💼 **LinkedIn:** [Ahmed Majed](https://www.linkedin.com/in/ahmed-majed-5500a1247/)
+
+📦 **pub.dev:** [logo_motion](https://pub.dev/packages/logo_motion)
+
+---
+
+<p align="center">
+  <i>Building reliable mobile experiences, one feature at a time.</i>
+</p>
