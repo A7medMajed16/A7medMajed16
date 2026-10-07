@@ -248,4 +248,4 @@ I'm interested in working with engineering teams building reliable and scalable 
 
 <p align="center">
   <i>Building reliable mobile experiences, one feature at a time.</i>
-</p>ئ-ئ-
+</p>
